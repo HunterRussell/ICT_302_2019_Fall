@@ -221,11 +221,11 @@ By the midpoint of the semester, you and your classmates should have had enough 
 
 #### Revised Written Agreement (2 points, due 1 December 2019)
 
-Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will make a pull request for your Written Agreement in the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) folder of my class repository that 1) makes appropriate changes to your written agreement (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
+Expectations change over the course of the semester, so you will have a chance to revisit your written agreement to ensure that it accurately reflects your commitments to the course. You will create a new version of your written agreement that 1) makes appropriate changes (or specifies that you are not making any changes) and 2) adds a justification for those changes to the bottom of your agreement. You will then link to your file as a Canvas submission. You will earn 1 point for making changes (or making it clear that you aren't making changes) and another point for providing an adequate justification for those changes.
 
 #### Colleague Evaluation (8 points; due 15 December 2019)
 
-At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. They will download your Written Agreement from the [Written Agreements folder](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/assessments/CMS%20Guidebook%20Assessments/Written%20Agreements) and make a copy of the document. Under your comments in the *How Will It Be Evaluated?* section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. They will add that file to their personal GitHub repository and email me a link to the file (and any other evaluations) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
+At the end of the semester, a colleague whom you have identified in your Written Agreement will evaluate your contributions to the CMS Guidebook, using the terms set out in your Written Agreement as a guide. Dr. Greenhalgh has uploaded your Revised Written Agreement to the personal ICT 302 Repository of the person identified as your reviewer. Under your comments in the *How Will It Be Evaluated?* section, they will give you a score out of eight, using specific evidence from your contributions to the CMS Guidebook and its workflows and specific passages from your Written Agreement to justify that score. After completing the evaluation, they will email me a link to the file (and any other evaluations) at [spencer.greenhalgh@uky.edu](mailto:spencer.greenhalgh@uky.edu). In most cases, the grade they give you is the grade you will receive; however, if there are clear abuses of the important process of peer-assessment, I will adjust your grade to one that is more appropriate.
 
 #### Dr. Greenhalgh Evaluation (6 points; completed after 15 December 2019)
 
@@ -436,8 +436,8 @@ Using guidelines presented in class, identify and explore three different websit
 	1. [WordPress Codex](https://codex.wordpress.org/Main_Page) and [WordPress Support](https://en.support.wordpress.com/)
 	2. [EasyWPGuide](https://easywpguide.com/) and [WPBeginner](https://www.wpbeginner.com/)
 	3. [WordPress Development StackExchange](https://wordpress.stackexchange.com/) and [WordPress subreddit](https://www.reddit.com/r/Wordpress/)
-	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/) 
-		
+	4. [Central KY WordPress Bloggers and Geeks](https://www.meetup.com/Central-KY-WordPress-Users/), [WordPress Louisville](https://www.meetup.com/WordPress-Meetup-Louisville/) and [Cincinnati WordPress Meetup](https://www.meetup.com/Cincinnati-WordPress-Meetup/)
+
 - discuss as a class for each resource:
 	- what are these resources?
   	- how do the resources work?
@@ -529,8 +529,10 @@ Using guidelines presented in class, identify and explore three different websit
 ### Monday, 11 November (Learn):
 - attend lecture on extending Content Management Systems
 ### Wednesday, 13 November (Explore):
-- explore WordPress plugins
-- explore WordPress API
+- explore [WordPress API](https://codex.wordpress.org/WordPress_APIs)
+- explore [WordPress plugins (official directory)](https://wordpress.org/plugins/)
+- explore [WordPress plugins (unofficial directory)](http://wpplugindirectory.org/)
+
 
 ### Friday, 15 November (Create):
 - continue work on *CMS Guidebook*
@@ -542,6 +544,7 @@ Using guidelines presented in class, identify and explore three different websit
 
 ### Monday, 18 November (Learn):
 - attend lecture on eCommerce with Content Management Systems
+	- look over [WooCommerce showcase](https://woocommerce.com/showcase/)
 ### Wednesday, 20 November (Explore):
 - explore eCommerce plugins for the [class WordPress website](https://sised.is.uky.edu/ict302wp/)
 ### Friday, 22 November (Create):
